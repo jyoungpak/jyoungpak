@@ -1,7 +1,7 @@
-### Hi there 👋
-🔭 I’m currently a Product Marketing Manager at GitHub focused on the GitHub Platform
-🌱 I’m currently learning more about the organization and product offerings, as I've just joined the team
-👯 I’m looking forward to collaborating with developers and technologists
+### Hi there 👋 My name is Jun!
+- 🔭 I’m currently a Product Marketing Manager at GitHub focused on the GitHub Platform
+- 🌱 I’m currently learning more about the organization and product offerings, as I've just joined the team
+- 👯 I’m looking forward to collaborating with developers and technologists
 
 
 
