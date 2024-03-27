@@ -1,4 +1,12 @@
 ### Hi there 👋
+🔭 I’m currently a Product Marketing Manager at GitHub focused on the GitHub Platform
+🌱 I’m currently learning more about the organization and product offerings, as I've just joined the team
+👯 I’m looking forward to collaborating with developers and technologists
+
+
+
+
+
 
 <!--
 **jyoungpak/jyoungpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
